@@ -38,7 +38,7 @@ Activate virtual environment (Windows):
 
 Install dependencies:
 
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
 Run the application:
 
